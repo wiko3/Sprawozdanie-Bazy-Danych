@@ -9,7 +9,7 @@ Spis użytych repozytoriów
 
 Prace nad projektem i testy laboratoryjne oparto na następujących repozytoriach:
 
-* **Projektowe grupowe:** ``https://github.com/karaskamil/Sprawozdanie-Bazy-Danych``
+* **Projektowe indywidualne:** ``https://github.com/wiko3/Sprawozdanie-Bazy-Danych``
 * **Badania literaturowe - sprzęt dla baz danych:** ``https://github.com/karaskamil/Sprzet-dla-bazy-danych.git``
 * **Badania literaturowe - konfiguracja bazy danych:** ``https://github.com/Youarecheck/Bazy_Danych_Tematyczne_Repo_MK.git``
 * **Badania literaturowe - kontrola i konserwacja:** ``https://github.com/pawlos1337/Bazy-danych-temat.git``
